@@ -1,0 +1,1 @@
+Esse programa gera a tabudada do número passado
